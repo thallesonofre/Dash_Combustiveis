@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
+from openpyxl import Workbook
 from PIL import Image
 
 # configuração da página para wide screem
